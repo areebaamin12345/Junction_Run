@@ -82,7 +82,7 @@ JUNCTION_RUN/
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](Screenshots/Output1.png)
+![Main Menu](Screenshots/Output1.jpg)
 
 ---
 
@@ -92,17 +92,17 @@ JUNCTION_RUN/
 ---
 
 ### Level 1 – Glass Bridge
-![Level 1](Screenshots/Output33.png)
+![Level 1](Screenshots/Output3.png)
 
 ---
 
 ### Level 2 – Subway Surfers
-![Level 2](Screenshots/Output44.png)
+![Level 2](Screenshots/Output4.png)
 
 ---
 
 ### Gameplay
-![Gameplay](Screenshots/Output5.png)
+![Gameplay](Screenshots/Output5.jpeg)
 
 ---
 
