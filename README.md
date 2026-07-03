@@ -97,12 +97,10 @@ JUNCTION_RUN/
 ---
 
 ### Level 2 – Subway Surfers
-![Level 2](Screenshots/Output4.png)
+![Level 2](Screenshots/Output5.jpg)
 
 ---
 
-### Gameplay
-![Gameplay](Screenshots/Output5.jpeg)
 
 ---
 
